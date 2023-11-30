@@ -19,4 +19,4 @@ mod MyToken {
         ERC20::InternalImpl::initializer(ref unsafe_state, name, symbol);
         ERC20::InternalImpl::_mint(ref unsafe_state, recipient, initial_supply);
     }
-}
+}}
