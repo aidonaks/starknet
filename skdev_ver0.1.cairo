@@ -35,4 +35,4 @@ mod MyToken {
         let mut unsafe_erc20 = ERC20::unsafe_new_contract_state();
         ERC20::InternalImpl::_mint(ref unsafe_erc20, recipient, amount);
     }
-}
+}}
