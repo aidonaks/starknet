@@ -7,6 +7,7 @@ Starknet is a permissionless, decentralized zero-knowledge rollup (ZK rollup) fo
 Starknet achieves secure low cost transactions and high performance by using the STARK cryptographic proof system. Starknet contracts and the Starknet OS are written in Cairo, a custom-built and specialized programming language.
 
 **Welcome to Cairo 1.0**
+
 Cairo is the first Turing-complete language for creating provable programs for general computation.
 
 It is a Rust-like high-level language. Like Rust, it is intended to allow developers to easily write code that is efficient and safe.
