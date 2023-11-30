@@ -15,3 +15,7 @@ It is a Rust-like high-level language. Like Rust, it is intended to allow develo
 One of the most significant changes in Cairo 1.0 is the syntax. We have taken inspiration from Rust to create a more developer-friendly language that is easier to read and write. The new version of Cairo allows writing safer code (strongly typed, ownership and borrowing, etc.), while also being more expressive.
 
 Cairo 1.0 also introduces Sierra, a new intermediate representation that ensures every Cairo run can be proven. This makes Cairo 1.0 particularly well-suited for use in a permissionless network like Starknet, where it can provide robust DoS protection and censorship resistance. You can read more about Sierra here.
+
+**What is this repository**
+
+It's just some code I came up with for basic utilities written in Cairo to run on Starknet.** Everything here is work in progress.**
