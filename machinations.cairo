@@ -25,3 +25,4 @@ func main{output_ptr : felt*, range_check_ptr}():
     [output_ptr] = res
     return ()
 end
+//end
