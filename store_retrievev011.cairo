@@ -15,4 +15,4 @@ func main{output_ptr : felt*, range_check_ptr}():
 
     [output_ptr] = stored_value
     return ()
-end.
+end
