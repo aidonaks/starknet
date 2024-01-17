@@ -26,4 +26,4 @@ func transfer{output_ptr : felt*, range_check_ptr}():
     dict_write(memory_dict, receiver, receiver_account)
 
     return ()
-end
+end.
